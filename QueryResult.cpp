@@ -1,8 +1,3 @@
-/*
-Mpoyo Nkali Glen Jeffrey 7977228
-Mohamadou Ly 7974677
-*/
-
 #include "QueryResult.h"
 
 QueryResult::QueryResult() : reply1(0), reply2(0), reply3(0), reply4(0){}
