@@ -1,8 +1,3 @@
-/*
-Mpoyo Nkali Glen Jeffrey 7977228
-Mohamadou Ly 7974677
-*/
-
 #include "BearAction.h"
 #include <iostream>
 
